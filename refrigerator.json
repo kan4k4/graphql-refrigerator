@@ -1,0 +1,61 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "name": "Milk",
+        "quantity": 3,
+        "category": "beverage",
+        "ingredient": ["milk"],
+        "expiry": "02/10/2020"
+      },
+      {
+        "id": 2,
+        "name": "Pizza",
+        "quantity": 1,
+        "category": "food",
+        "ingredient": ["tomato", "bacon", "cheese"],
+        "expiry": "01/30/2022"
+      },
+      {
+        "id": 3,
+        "name": "Beer",
+        "quantity": 24,
+        "category": "beverage",
+        "ingredient": ["barley", "water", "hops", "yeast"],
+        "expiry": "12/31/2020"
+      },
+      {
+        "id": 4,
+        "name": "Noodle",
+        "quantity": 1,
+        "category": "food",
+        "ingredient": ["soy sauce", "cabbage", "egg", "tomato"],
+        "expiry": "01/29/2020"
+      },
+      {
+        "id": 5,
+        "name": "Spinach",
+        "quantity": 2,
+        "category": "vegetable",
+        "ingredient": ["fresh spinach"],
+        "expiry": "02/01/2020"
+      },
+      {
+        "id": 6,
+        "name": "Juice",
+        "quantity": 4,
+        "category": "beverage",
+        "ingredient": ["Sicilian orange", "sugar"],
+        "expiry": "02/10/2020"
+      },
+      {
+        "id": 7,
+        "name": "Cabbage",
+        "quantity": 1,
+        "category": "vegetable",
+        "ingredient": ["cabbage"],
+        "expiry": "01/31/2020"
+      }
+    ]
+}
+
