@@ -4,9 +4,9 @@
 Express GraphQL server setup. API to check and keep tracks of items in the fridge. 
 
 ## Features
-*Add/ remove items from the fridge.
-*Check expiring items.
-*Update an item quantity.
+* Add/ remove items from the fridge.
+* Check expiring items.
+* Update an item quantity.
 
 ## Getting Started
 Please look at `package.json` to see how this repository is set up.
